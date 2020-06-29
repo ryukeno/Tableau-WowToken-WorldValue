@@ -15,9 +15,9 @@ My visualizations can be found in Tableau Public here: https://public.tableau.co
 
 I included the following in my story:
 
-Wow Token Historical Price
-Average Monthly Salary converted to World of Warcraft gold Value
-Hours needed to play to reach the monthly salary assuming a player does 17000 gold / hours
-Exchange rates
-Transactions including the time you would have to play in order to be able to buy common goods in real life with world of warcraft gold
-Prices of Alchemy Flasks on the Auctions House and quantity
+- Wow Token Historical Price
+- Average Monthly Salary converted to World of Warcraft gold Value
+- Hours needed to play to reach the monthly salary assuming a player does 17000 gold / hours
+- Exchange rates
+- Transactions including the time you would have to play in order to be able to buy common goods in real life with world of warcraft gold
+- Prices of Alchemy Flasks on the Auctions House and quantity
